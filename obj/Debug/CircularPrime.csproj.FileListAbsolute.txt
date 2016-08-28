@@ -1,0 +1,6 @@
+C:\Users\misha\Desktop\CircularPrime\CircularPrime\bin\Debug\CircularPrime.exe.config
+C:\Users\misha\Desktop\CircularPrime\CircularPrime\bin\Debug\CircularPrime.exe
+C:\Users\misha\Desktop\CircularPrime\CircularPrime\bin\Debug\CircularPrime.pdb
+C:\Users\misha\Desktop\CircularPrime\CircularPrime\obj\Debug\CircularPrime.csprojResolveAssemblyReference.cache
+C:\Users\misha\Desktop\CircularPrime\CircularPrime\obj\Debug\CircularPrime.exe
+C:\Users\misha\Desktop\CircularPrime\CircularPrime\obj\Debug\CircularPrime.pdb
