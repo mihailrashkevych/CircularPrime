@@ -10,13 +10,13 @@ namespace CircularPrime
 
         public static void Main(string[] args)
         {
-            new Program().BruteForce();
+            new Program().GetCircularPrime();
             Console.ReadKey();
         }
 
         SortedSet<int> primes;
 
-        public void BruteForce()
+        public void GetCircularPrime()
         {
             Stopwatch clock = Stopwatch.StartNew();
 
