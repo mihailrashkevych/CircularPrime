@@ -22,10 +22,7 @@ namespace CircularPrime
 
             int noCircularPrimes = 2;
             primes = new SortedSet<int>(ESieve(1000000));
-            //Special cases
-            primes.Remove(2);
-            primes.Remove(5);
-
+ 
             while (primes.Count > 0)
             {
                 noCircularPrimes += CheckCircularPrimes(primes.Min);
